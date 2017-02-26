@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "jekyll-extlinks"
-  s.version     = "0.0.2"
+  s.version     = "0.0.3"
   s.date        = "2017-02-26"
   s.summary     = "Jekyll ExtLinks Plugin"
   s.description = <<-EOF
