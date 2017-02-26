@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   EOF
   s.authors     = ["Dmitry Ogarkov"]
   s.email       = "dima@ogarkov.com"
-  s.files       = ["lib/jekyll-extlinks.rb"]
+  s.files       = ["lib/jekyll-extlinks.rb", "Gemfile", "jekyll-extlinks.gemspec", "License", "README.md"]
   s.homepage    = "http://ogarkov.com/jekyll/plugins/extlinks/"
   s.license     = "MIT"
 
