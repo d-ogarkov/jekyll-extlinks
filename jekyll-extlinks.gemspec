@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = "jekyll-extlinks"
-  s.version     = "0.0.1"
-  s.date        = "2017-02-25"
+  s.version     = "0.0.2"
+  s.date        = "2017-02-26"
   s.summary     = "Jekyll ExtLinks Plugin"
   s.description = <<-EOF
     Adds custom attributes to external links (rel="nofollow", target="_blank", etc.)
