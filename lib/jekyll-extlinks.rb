@@ -48,7 +48,7 @@ module Jekyll
       # Stop if no attributes were specified
       return content unless attributes
 
-      doc = Nokogiri::HTML.parse(content)
+      doc = Nokogiri::HTML.fragment(content)
       # Stop if we could't parse with HTML
       return content unless doc
 
