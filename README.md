@@ -14,7 +14,7 @@ This Jekyll plugin adds custom attributes to external links in your content. For
 
 3. Add this to your project's `_config.yml`:
   ```yml
-  gems:
+  plugins:
     - jekyll-extlinks
   ```
 
